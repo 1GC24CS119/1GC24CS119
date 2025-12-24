@@ -6,3 +6,6 @@ Section: B
 Branch: Computer Science and Engineering
 Year of Admission: 2024
 College Name: GCE
+SSLC: Winners International School
+PUC: BGS PU College
+UG Degree: 2nd year B.E CSE branch
