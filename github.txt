@@ -1,3 +1,0 @@
-githubID: 1GC24CS109
-Version: 2.1
-Date of Installation: 27/12/2025
